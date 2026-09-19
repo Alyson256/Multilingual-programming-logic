@@ -80,6 +80,15 @@ INSERT INTO pedido_itens (pedido_id, produto_id, quantidade, preco_unitario) VAL
 	(3, 3, 2, 39.90),
 	(3, 7, 1, 14.00);
 
+select * from produtos where preco < 30;
+    
+	select * from pedidos where status = 'aberto';
+	
+ 
+
+
+
+
 -- Exemplos para praticar:
 -- SELECT * FROM produtos WHERE preco < 30;
 -- SELECT * FROM pedidos WHERE status = 'aberto';
