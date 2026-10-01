@@ -13,6 +13,7 @@ Os projetos estão organizados por tecnologia:
 ### Back-end e lógica principal
 
 * **[`Python.pratices/`](../Python.pratices/)** - Scripts, automações, algoritmos e exercícios de lógica de programação.
+* **[Guia de listas, vetores e matrizes em Python](./guia-python-listas-vetores-matrizes.md)** - Operações com listas e exemplos de matrizes para iniciantes.
 
 ### Front-end e desenvolvimento web
 
