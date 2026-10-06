@@ -54,7 +54,7 @@ print(numeros)  # [1, 2, 3, 4]
 
 Diferença importante: `append([3, 4])` colocaria a lista inteira como um único item, enquanto `extend([3, 4])` colocaria `3` e `4` separadamente.
 
-### `insert(indice, valor)`
+### `insert(indice, valor)` ...
 
 Insere um item em uma posição. Os itens seguintes mudam de índice.
 
