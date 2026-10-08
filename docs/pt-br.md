@@ -14,6 +14,7 @@ Os projetos estão organizados por tecnologia:
 
 * **[`Python.pratices/`](../Python.pratices/)** - Scripts, automações, algoritmos e exercícios de lógica de programação.
 * **[Guia de listas, vetores e matrizes em Python](./guia-python-listas-vetores-matrizes.md)** - Operações com listas e exemplos de matrizes para iniciantes.
+* **[Guia de tratamento de erros e exceções em Python](./guia-python-tratamento-erros-excecoes.md)** - Conceitos introdutórios, exemplos de `try`, `except` e `raise`, e dicas para tratar erros.
 
 ### Front-end e desenvolvimento web
 
